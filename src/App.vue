@@ -1,11 +1,8 @@
 <template>
   <div id="app">
     <MainLayout>
-      <router-link to="/">Home</router-link>
-      |
-      <router-link to="/about">About</router-link>
+      <router-view style="margin-top: 70px;margin-bottom: 70px"/>
     </MainLayout>
-    <router-view/>
   </div>
 </template>
 <style lang="stylus">
