@@ -22,9 +22,7 @@ export default {
       if (this.numberBox[n]) return this.numberBox[n]
       console.log('cal')
       let next = this.findSeriesSequence(n - 1) + 2 * (n - 1)
-      let numberBox = this.numberBox
-      numberBox[n] = next
-      this.numberBox = numberBox
+      this.numberBox[n] = next
       localStorage.setItem('numberBox', JSON.stringify(this.numberBox))
       return next
     },
