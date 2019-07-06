@@ -27,14 +27,9 @@ export default {
   mounted () {
     serviceRestaurant().then(data => {
       this.restaurant = data
-      console.log(data)
     })
   },
-  methods: {
-    getRestaurantImage () {
-    }
-
-  }
+  methods: {}
 }
 </script>
 
