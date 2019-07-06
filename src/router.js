@@ -15,7 +15,7 @@ export default new Router({
       component: Home
     },
     {
-      path: '/scg',
+      path: '/SCG',
       name: 'scg',
       component: SCG
     },
