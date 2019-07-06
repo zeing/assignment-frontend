@@ -6,7 +6,7 @@ export default () => {
     if (!data) {
       let params = { location: 'bang%sue' }
       axios
-        .get('http://localhost:3000', { params, crossdomain: true })
+        .get('http://localhost:3000/scg', { params })
         .then((data) => {
           // success callback
           localStorage.setItem('restaurant', JSON.stringify(data.data))
