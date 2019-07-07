@@ -44,11 +44,11 @@
             </div>
 
             <div class="col-md-12">
-              <label><b>BACHELOR DEGREE | 2013 – 2016 | King Mongkut’s University of Technology North Bangkok</b></label>
+              <label><b>BACHELOR DEGREE | 2013 – 2017 | King Mongkut’s University of Technology North Bangkok</b></label>
               <label>Department of Computer and Information Science | GPA 3.35</label>
             </div>
             <div class="col-md-12">
-              <label><b>SENIOR HIGH SCHOOL | 2011 - 2013 | Trattrakarnkhun school, Trat</b></label>
+              <label><b>SENIOR HIGH SCHOOL | 2010 - 2013 | Trattrakarnkhun school, Trat</b></label>
               <label>Science-Mathematics | GPA 3.63</label>
             </div>
           </div>
